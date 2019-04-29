@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Encounter Helper 1.0</string>
+    <string name="appHelp">The Help Screen of Encounter Helper</string>
+    <string name="appHelpExtra">If you require help with determining creature stats refer to the Players handbook.</string>
+    <string name="appDisplayName">Encounter Helper</string>
+    <string name="appDesc">Encounter Helper provides the user with a quick and easy way to manage a list of Creatures for your Encounters at the table.</string>
+    <string name="appMoreInfo">For more information about Encounter helper or the game rules check your handbook.</string>
+    <string name="appAbout">About Encounter Helper</string>
+    <string name="appWebsite">DnD Creature Tracking</string>
+    <string name="developer">Kevin Dunne</string>
+
+    <string name="searchCreaturesLbl">Search Creatures\'s</string>
+    <string name="markedCreaturesLbl">Marked Creature\'s</string>
+    <string name="addCreatureLbl">Creature addon</string>
+    <string name="addCreatureBtnLbl">Add Creature</string>
+    <string name="saveCreatureBtn">Save Creature</string>
+    <string name="recentlyViewedLbl">Recently Added Creature\'s</string>
+    <string name="creatureNameLbl">Name :</string>
+    <string name="creatureClassLbl">Class :</string>
+    <string name="creatureArmorLbl">Armor Class :</string>
+    <string name="creatureRatingLbl">Challenge Rating</string>
+    <string name="creatureDetailsLbl">Full Creature Details</string>
+    <string name="informationLbl">Information</string>
+    <string name="emptyMessageLbl">You have no Creatures\'s added, go add something to hit!</string>
+    <string name="deleteCreatureLbl">Delete Creature</string>
+    <string name="splashscreenLblname">Encounter Helper</string>
+
+    <string-array name="CreatureTypes">
+        <item>All Types</item>
+        <item>Favourites</item>
+    </string-array>
+</resources>

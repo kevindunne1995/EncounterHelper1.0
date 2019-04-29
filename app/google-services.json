@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "313999338453",
+    "firebase_url": "https://encounterhelperfire.firebaseio.com",
+    "project_id": "encounterhelperfire",
+    "storage_bucket": "encounterhelperfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313999338453:android:d15577af3f2220ae",
+        "android_client_info": {
+          "package_name": "ie.cm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313999338453-gs1v9sm2q88vpucmj6v1rr0uiv97gfku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.cm",
+            "certificate_hash": "5ae361a763357df7d861fdc1635b5207047a18f6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeuawIQNq0ZYX0otSbGHRFb8opvMrOMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313999338453-15umubbd1g3on07quj8otaj179hg12or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
